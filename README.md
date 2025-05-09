@@ -38,6 +38,18 @@
 
 ---
 
+### ✨ Fun Extras
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SwetaDas-creator&theme=tokyonight&row=1&no-frame=true">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SwetaDas-creator&theme=tokyonight">
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
